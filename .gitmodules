@@ -1,0 +1,6 @@
+[submodule "services/UserManagementService"]
+	path = services/UserManagementService
+	url = https://github.com/rrroy5640/UserManagementService.git
+[submodule "services/ProjectManagementService"]
+	path = services/ProjectManagementService
+	url = https://github.com/rrroy5640/ProjectManagementService.git
