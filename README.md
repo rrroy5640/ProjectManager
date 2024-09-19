@@ -10,7 +10,7 @@ The application is built using a microservices architecture, with each service h
 
 1. **ProjectManagementService**: Handles project-related operations.
 2. **UserManagementService**: Manages user accounts and authentication.
-3. **NotificationService**: Handles sending and processing of notifications.
+3. **NotificationService(TODO)**: Handles sending and processing of notifications.
 
 All services are structured as separate .NET projects and are included in the main repository as Git submodules.
 
