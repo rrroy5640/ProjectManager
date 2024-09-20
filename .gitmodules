@@ -4,3 +4,6 @@
 [submodule "services/ProjectManagementService"]
 	path = services/ProjectManagementService
 	url = https://github.com/rrroy5640/ProjectManagementService.git
+[submodule "NotificationService"]
+	path = NotificationService
+	url = https://github.com/rrroy5640/NotificationService.git
