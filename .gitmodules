@@ -10,3 +10,6 @@
 [submodule "services/services/NotificationService"]
 	path = services/services/NotificationService
 	url = https://github.com/rrroy5640/NotificationService.git
+[submodule "services/NotificationService"]
+	path = services/NotificationService
+	url = https://github.com/rrroy5640/NotificationService.git
