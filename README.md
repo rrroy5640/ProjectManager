@@ -30,6 +30,7 @@ This service is responsible for managing projects and tasks within projects.
 
 - **Services**: 
   - ProjectService
+  - SqsService
 
 - **DTOs**: 
   - Various request and response DTOs for API operations
@@ -39,7 +40,7 @@ This service is responsible for managing projects and tasks within projects.
 - CRUD operations for projects
 - Adding and removing project members
 - Creating, updating, and deleting tasks within projects
-
+- Sending notifications to users via AWS SQS
 ## UserManagementService
 
 This service handles user management and authentication.
