@@ -10,7 +10,7 @@ The application is built using a microservices architecture, with each service h
 
 1. **ProjectManagementService**: Handles project-related operations.
 2. **UserManagementService**: Manages user accounts and authentication.
-3. **NotificationService(TODO)**: Handles sending and processing of notifications.
+3. **NotificationService**: Handles sending and processing of notifications.
 
 All services are structured as separate .NET projects and are included in the main repository as Git submodules.
 
@@ -132,7 +132,7 @@ Both services use Swagger for API documentation. When running in development mod
 6. Access the Swagger UI for API documentation and testing:
    - ProjectManagementService: http://localhost:5272/swagger
    - UserManagementService: http://localhost:5069/swagger
-   - NotificationService: http://localhost:5xxx/swagger (replace with actual port)
+   - NotificationService: http://localhost:5131/swagger 
 
 ## Future Improvements
 
